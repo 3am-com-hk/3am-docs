@@ -50,7 +50,7 @@
   ],
   "navigation": [
     {
-      "group": "Get Started",
+      "group": "上手使用",
       "pages": ["introduction", "quickstart", "development"]
     },
     {
