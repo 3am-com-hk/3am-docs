@@ -49,7 +49,7 @@
     },
     {
       "group": "服務條款",
-      "pages": ["policies/tos", "essentials/code", "essentials/images"]
+      "pages": ["policies/privacypolicy", "policies/privacypolicy", "policies/privacypolicy"]
     }
   ],
   "footerSocials": {
