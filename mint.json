@@ -15,31 +15,21 @@
       "to": "#07C983"
     }
   },
-  "topbarLinks": [
-    {
-      "name": "Email",
-      "url": "mailto:info@3am.com.hk"
-    }
-  ],
   "topbarCtaButton": {
     "name": "3AM SaaS",
     "url": "https://3am.com.hk"
   },
   "anchors": [
     {
-      "name": "Documentation",
-      "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
+      "name": "Discord 伺服器",
+      "icon": "discord",
+      "url": "#"
     },
     {
-      "name": "Community",
-      "icon": "slack",
-      "url": "https://mintlify.com/community"
-    },
-    {
-      "name": "Blog",
-      "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
+      "name": "Email 電郵地址",
+      "icon": "envelope",
+      "iconType": "duotone"
+      "url": "mailto:info@3am.com.hk"
     }
   ],
   "navigation": [
