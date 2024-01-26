@@ -17,7 +17,7 @@
   },
   "topbarLinks": [
     {
-      "name": "電郵聯繫",
+      "name": "Email",
       "url": "mailto:info@3am.com.hk"
     }
   ],
@@ -48,8 +48,20 @@
       "pages": ["core", "chat", "draw"]
     },
     {
-      "group": "服務條款",
+      "group": "Essentials",
       "pages": ["essentials/markdown", "essentials/code", "essentials/images", "essentials/settings", "essentials/navigation"]
+    },
+    {
+      "group": "API Documentation",
+      "pages": ["api-reference/introduction"]
+    },
+    {
+      "group": "Endpoint Examples",
+      "pages": [
+        "api-reference/endpoint/get",
+        "api-reference/endpoint/create",
+        "api-reference/endpoint/delete"
+      ]
     }
   ],
   "footerSocials": {
