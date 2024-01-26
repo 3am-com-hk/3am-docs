@@ -45,7 +45,7 @@
   "navigation": [
     {
       "group": "上手使用",
-      "pages": ["introduction", "quickstart", "development"]
+      "pages": ["core", "chat", "draw"]
     },
     {
       "group": "Essentials",
