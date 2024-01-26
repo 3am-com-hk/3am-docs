@@ -28,8 +28,8 @@
     {
       "name": "Email 電郵地址",
       "icon": "envelope",
-      "iconType": "duotone"
-      "url": "mailto:info@3am.com.hk"
+      "iconType": "duotone",
+      "url": "#"
     }
   ],
   "navigation": [
