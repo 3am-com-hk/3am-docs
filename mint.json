@@ -48,7 +48,7 @@
       "pages": ["core", "chat", "draw"]
     },
     {
-      "group": "服務條款",
+      "group": "使用條款",
       "pages": ["tos"]
     }
   ],
