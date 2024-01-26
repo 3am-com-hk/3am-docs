@@ -21,15 +21,15 @@
   },
   "anchors": [
     {
-      "name": "Discord 伺服器",
+      "name": "加入 Discord 伺服器",
       "icon": "discord",
       "url": "#"
     },
     {
-      "name": "Email 電郵地址",
+      "name": "發送 Email 電郵地址",
       "icon": "envelope",
       "iconType": "duotone",
-      "url": "#"
+      "url": "mailto:info@3am.com.hk"
     }
   ],
   "navigation": [
