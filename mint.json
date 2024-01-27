@@ -19,6 +19,11 @@
     "name": "3AM SaaS",
     "url": "https://3am.com.hk"
   },
+  "topAnchor": {
+    "name": "Home",
+    "icon": "building",
+    "url": "home"
+  },
   "anchors": [
     {
       "name": "加入 Discord 伺服器",
