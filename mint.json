@@ -22,7 +22,7 @@
   "topAnchor": {
     "name": "Home",
     "icon": "building",
-    "url": "home"
+    "url": "core"
   },
   "anchors": [
     {
