@@ -15,6 +15,12 @@
       "to": "#07C983"
     }
   },
+  "topbarLinks": [
+  {
+    "name": "電郵聯繫 3AM",
+    "url": "mailto:info@3am.com.hk"
+  }
+],
   "navigation": [
     {
       "group": "上手使用",
