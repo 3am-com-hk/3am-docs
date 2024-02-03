@@ -15,15 +15,6 @@
       "to": "#07C983"
     }
   },
-  "topbarCtaButton": {
-    "name": "3AM SaaS",
-    "url": "https://3am.com.hk"
-  },
-  "topAnchor": {
-    "name": "Home",
-    "icon": "building",
-    "url": "core"
-  },
   "anchors": [
     {
       "name": "加入 Discord 伺服器",
