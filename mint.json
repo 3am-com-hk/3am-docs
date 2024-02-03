@@ -15,19 +15,6 @@
       "to": "#07C983"
     }
   },
-  "anchors": [
-    {
-      "name": "加入 Discord 伺服器",
-      "icon": "discord",
-      "url": "https://discord.gg/Kxc8sHDcnB"
-    },
-    {
-      "name": "發送 Email 電郵地址",
-      "icon": "envelope",
-      "iconType": "duotone",
-      "url": "mailto:info@3am.com.hk"
-    }
-  ],
   "navigation": [
     {
       "group": "上手使用",
