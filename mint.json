@@ -13,7 +13,24 @@
     "anchors": {
       "from": "#0D9373",
       "to": "#07C983"
+    },
+   "anchors": [
+    {
+        "name": "API References",
+        "icon": "code",
+        "url": "api-references"
+    },
+    {
+        "name": "Content",
+        "icon": "pencil",
+        "url": "content"
+    },
+    {
+        "name": "Contact us",
+        "icon": "envelope",
+        "url": "https://mintlify.com/contact-us"
     }
+] 
   },
   "navigation": [
     {
