@@ -28,7 +28,7 @@
     },
     {
       "group": "深入使用",
-      "pages": ["prompt","WebCrawler","weather","pdfscanner"]
+      "pages": ["prompt","WebCrawler","weather","pdfscanner","mindMap"]
     },
     {
       "group": "使用條款",
