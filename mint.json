@@ -24,7 +24,7 @@
   "navigation": [
     {
       "group": "上手使用",
-      "pages": ["core", "chat", "draw","pricing"]
+      "pages": ["core", "chat", "draw","pricing","faq"]
     },
     {
       "group": "深入使用",
