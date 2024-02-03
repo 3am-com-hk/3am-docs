@@ -27,6 +27,10 @@
       "pages": ["core", "chat", "draw"]
     },
     {
+      "group": "深入使用",
+      "pages": ["prompt"]
+    },
+    {
       "group": "使用條款",
       "pages": ["tos", "privacy"]
     }
