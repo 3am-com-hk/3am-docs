@@ -28,7 +28,7 @@
     },
     {
       "group": "深入使用",
-      "pages": ["prompt"]
+      "pages": ["prompt","WebCrawler"]
     },
     {
       "group": "使用條款",
