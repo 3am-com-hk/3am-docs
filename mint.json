@@ -27,11 +27,11 @@
       "pages": ["core", "chat", "draw","pricing","faq"]
     },
     {
-      "group": "深入使用",
+      "group": "深入使用 Master Usage",
       "pages": ["prompt","WebCrawler","weather","pdfscanner","mindMap"]
     },
     {
-      "group": "使用條款",
+      "group": "使用條款 Policies",
       "pages": ["tos", "privacy"]
     }
   ],
